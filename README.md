@@ -17,5 +17,6 @@ Nome: Alysson Luiz Tavares Da Rocha
 
 Matrícula: 01359689
 
-Uso do Algoritmo
+Uso do Algoritmo: 
+
 O algoritmo pode ser utilizado para transformar GLC em FNG. Código feito em PHP e usando Xampp, Basta clicar na tela com o botão direito do mouse e escolher a opção "Open in Browser" e será retornado as produções na FNG.
