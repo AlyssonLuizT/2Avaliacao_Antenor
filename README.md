@@ -1,4 +1,4 @@
-2° Avaliação Antenor
+
 
 Este é um algoritmo desenvolvido para transformar uma Gramática Livre de Contexto (GLC) em sua Forma Normal de Greibach (FNG).
 
